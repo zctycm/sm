@@ -10,23 +10,8 @@
 			"title": "广告位出租联系客服",
 			"img": "http://pan.i8l.cn/data/guangg.png",
 			"url": "http://wpa.qq.com/msgrd?v=3&uin=2298950301"
-		},
-		{
-
-			"title": "需要定做的联系管理",
-			"img": "http://pan.i8l.cn/data/guangg.png",
-			"url": "http://wpa.qq.com/msgrd?v=3&uin=2298950301"
-		}, {
-
-			"title": "需要定做的联系管理",
-			"img": "http://pan.i8l.cn/data/guangg.png",
-			"url": "http://wpa.qq.com/msgrd?v=3&uin=2298950301"
-		}, {
-
-			"title": "出租广告位",
-			"img": "http://pan.i8l.cn/data/guangg.png",
-			"url": "http://wpa.qq.com/msgrd?v=3&uin=2298950301"
 		}
+		
 	]
 
 }
