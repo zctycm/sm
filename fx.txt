@@ -2,7 +2,7 @@
 	"data": [{
 
 			"title": "点击图片支付宝免费领红包输入582044989",
-			"img": "http://files.git.oschina.net/group1/M00/03/47/PaAvDFrFgQ6AUMqJAAB7X09ViEg221.png?token=782d07c0508a0b9e7f60605bc2f47918&ts=1522893070&attname=captureTempFile 1522892937449.png",
+			"img": "http://pan.i8l.cn/data/zfb.jpg",
 			"url": "alipays://platformapi/startapp?appId=20001003&actionSrc=582044989"
 		},
 		{
